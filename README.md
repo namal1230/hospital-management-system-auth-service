@@ -1,5 +1,12 @@
 # Hospital Management System - Auth Service
-
+● Student Name: Namal Dilmith Ruwanpathirana
+<br><br>
+● Student Number: 2301671058
+<br><br>
+● Slack Handle : namaldilmith2
+<br><br>
+● GCP Project ID : pro-edu-476313
+<br><br>
 A robust authentication microservice for the Hospital Management System built with Spring Boot, providing JWT-based authentication and authorization capabilities.
 
 ## Overview
